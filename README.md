@@ -1,7 +1,3 @@
 # SAP Consultant
 
-## Education
-
-## Work Experience
-
-## Certifications
+## Page in progress ...
