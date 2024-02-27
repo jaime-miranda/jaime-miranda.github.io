@@ -2,18 +2,16 @@
 
 ## Work Experience
 ### IT Consultant @ Lufthansa Industry Solutions
+
 ### Inhouse SAP-Developer & Salesforce Administrator @ Axel Springer
+
 ### Senior SAP Developer @ Implico
 
 ## Education
-### M.Sc. Software Architecture and Design 
-- Muster Technological University
-- Cork, Ireland
+### M.Sc. Software Architecture and Design @ Muster Technological University (Ireland)
 - First Class Honours
   
-### M.A. International Business Administration
-- University of Hamburg
-- Hamburg, Germany
+### M.A. International Business Administration @ University of Hamburg (Germany)
 
 ## Certifications
 ### SAP
