@@ -1,5 +1,9 @@
 title: Jaime Miranda
 logo: /assets/img/Jaime.jpeg
+description: "Great site about Jekyll on GH-Pages."
+author:
+  name: Evan Will
+  email: consulting@miranda.one
 show_downloads: false
 owner_url: false
 theme: jekyll-theme-minimal
