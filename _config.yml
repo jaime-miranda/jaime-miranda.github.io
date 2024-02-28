@@ -6,4 +6,7 @@ author:
   email: consulting@miranda.one
 show_downloads: false
 owner_url: false
+# Disable button "View My GitHub Profile"
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
