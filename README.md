@@ -1,37 +1,58 @@
-# SAP Consultant
+# About me
 
-## Work Experience
-### IT Consultant @ Lufthansa Industry Solutions
+# Work Experience
+## Lufthansa Industry Solutions
+### IT Consultant
+- Consultancy on SAP SD, FI-CA and the Salesforce Sales Cloud
 
-### Inhouse SAP-Developer & Salesforce Administrator @ Axel Springer
+## Axel Springer
+### SAP-Developer & Salesforce Administrator
+- Joined the development of the SAP-based platform conceived to manage the digital subscriptions of Bild+ and Welt+
+- Supported the ads sales processes as Salesforce Sales Cloud Administrator
+  
+## Implico
+### Senior SAP Developer
+- SAP developer specialized in IS Oil & Gas and IS-U Waste & Recycling
 
-### Senior SAP Developer @ Implico
+## Steria Mummert Consulting
+### Working Student
+- Inhouse SAP developer
 
-## Education
-### M.Sc. Software Architecture and Design @ Muster Technological University (Ireland)
+## Airbus
+### Working Student
+- Oracle database developer with PL/SQL
+ 
+## SAP
+### Internship
+- Demo developer
+
+# Education
+## M.Sc. Software Architecture and Design
+### Munster Technological University (Ireland)
 - First Class Honours
   
-### M.A. International Business Administration @ University of Hamburg (Germany)
+## M.A. International Business Administration
+### University of Hamburg (Germany)
 
-## Certifications
-### SAP
+# Certifications
+## SAP
 - SAP Certified Application Associate - SAP HANA 2.0 SPS06
 - SAP Certified Application Associate - SAP HANA Cloud Modeling
 - SAP Certified Application Associate SAP S/4HANA Sales 2022
 - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.0
   
-### Salesforce
+## Salesforce
 - Certified Salesforce Administrator
   
-### Process Mining
+## Process Mining
 - Certified Data Scientist Specialized in Process Mining by Fraunhofer Academy
   
-### Scrum
+## Scrum
 - Certified Scrum Master I
 - Certified Scrum Developer I
 
 
-## Languages
+# Languages
 - English  full professional proficiency
 - German  full professional proficiency
 - Spanish  native speaker
