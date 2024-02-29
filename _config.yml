@@ -1,5 +1,7 @@
 title: Jaime Miranda
 logo: /assets/img/Jaime.jpeg
+plugins:
+  - jemoji
 description: "Hello this is the description"
 author:
   name: Jaime Miranda
