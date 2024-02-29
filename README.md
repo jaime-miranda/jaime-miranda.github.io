@@ -1,5 +1,7 @@
 # About me
 
+&nbsp;
+&nbsp;
 # Work Experience
 ## Lufthansa Industry Solutions
 ### IT Consultant
@@ -19,7 +21,8 @@
 ## SAP
 ### Internship
 
-
+&nbsp;
+&nbsp;
 # Education
 ## M.Sc. Software Architecture and Design
 ### Munster Technological University (Ireland)
@@ -27,10 +30,11 @@
 ## M.A. International Business Administration
 ### University of Hamburg (Germany)
 
-
+&nbsp;
+&nbsp;
 # Certifications
 ## SAP
-- SAP Certified Application Associate - SAP HANA 2.0 SPS06
+- SAP Certified Application Associate - SAP HANA 2.0 SPS06 [:link:](https://www.credly.com/badges/8014298f-61ac-456e-8e22-528ada0f285e).
 - SAP Certified Application Associate - SAP HANA Cloud Modeling
 - SAP Certified Application Associate SAP S/4HANA Sales 2022
 - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.0
@@ -45,9 +49,10 @@
 - Certified Scrum Master I
 - Certified Scrum Developer I
 
-
+&nbsp;
+&nbsp;
 # Languages
-- English  full professional proficiency
-- German  full professional proficiency
-- Spanish  native speaker
+- **English** Full professional proficiency
+- **German**  Full professional proficiency
+- **Spanish** Native speaker
 
