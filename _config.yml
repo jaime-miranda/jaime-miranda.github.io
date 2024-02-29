@@ -11,4 +11,4 @@ owner_url: false
 # Disable button "View My GitHub Profile"
 theme: jekyll-theme-minimal
 github:
-  is_project_page: false
+  is_project_page: true
