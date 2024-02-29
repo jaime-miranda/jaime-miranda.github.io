@@ -2,12 +2,13 @@ title: Jaime Miranda
 logo: /assets/img/Jaime.jpeg
 plugins:
   - jemoji
-github:
-  is_project_page: false
-description: "Hello this is the description"
+
+#description: "Hello this is the description"
 author:
   name: Jaime Miranda
 show_downloads: false
 owner_url: false
 # Disable button "View My GitHub Profile"
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
