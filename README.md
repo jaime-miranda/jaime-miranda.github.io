@@ -26,11 +26,11 @@
 &nbsp;
 # Education :mortar_board:
 - **Master of Science in Software Architecture and Design**
-  - [Munster Technological University](https://www.mtu.ie/) (Ireland)
+  - Munster Technological University (Ireland)
   - First Class Honours :1st_place_medal:
 
 - **Master of Arts in International Business Administration**
-  - [University of Hamburg](https://www.uni-hamburg.de/) (Germany)
+  - University of Hamburg (Germany)
 
 
 &nbsp;
