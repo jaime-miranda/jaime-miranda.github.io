@@ -1,5 +1,5 @@
 # About me
-
+:medal_military:
 &nbsp;
 &nbsp;
 # Work Experience
@@ -38,7 +38,7 @@
 - SAP Certified Application Associate - SAP HANA Cloud Modeling
 - SAP Certified Application Associate SAP S/4HANA Sales 2022
 - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.0
-:medal_military:
+- :medal_military:
   
 ## Salesforce
 - Certified Salesforce Administrator
