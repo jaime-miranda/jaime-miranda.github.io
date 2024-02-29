@@ -32,7 +32,7 @@
 
 &nbsp;
 &nbsp;
-# Certifications
+# Certifications :trophy:
 ## SAP
 - SAP Certified Application Associate - SAP HANA 2.0 SPS06 [:link:](https://www.credly.com/badges/8014298f-61ac-456e-8e22-528ada0f285e).
 - SAP Certified Application Associate - SAP HANA Cloud Modeling
