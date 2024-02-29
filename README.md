@@ -3,6 +3,8 @@
 &nbsp;
 &nbsp;
 # Work Experience :necktie:
+- **Independent SAP Consultant** *2024 - today*
+  - Role: SAP SD Consulting
 - **Lufthansa Industry Solutions** *2020 - 2024*
   - Role: SAP and Salesforce Consultant
   - Branch: IT Consulting
