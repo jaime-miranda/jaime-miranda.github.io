@@ -1,7 +1,9 @@
 # About me :technologist:
+Hi there!
 **Contact me**
   - Email: consulting@miranda.one
   - LinkedIn: [jmirandaz](https://www.linkedin.com/in/jmirandaz)
+    
 &nbsp;
 &nbsp;
 # Work Experience :necktie:
