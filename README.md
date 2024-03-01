@@ -1,7 +1,7 @@
 # About me :technologist:
-I'm a independent software contractor specialized in SAP SD Consulting. With my skills I can help you to streamline your sales processes begining with all pre-sales activities, through order management until accounts receivable.
-Besides my process knowledge I posses a strong SAP development background that allows me to design and implement solutions hollistically. 
-Futhermore, my specialization in Process Mining gives me the tools to perform a data-driven analysis of your processes to identify anomalies, bottlenecks, unknown execution paths and 
+**Contact me**
+  - Email: consulting@miranda.one
+  - LinkedIn: [jmirandaz](https://www.linkedin.com/in/jmirandaz)
 &nbsp;
 &nbsp;
 # Work Experience :necktie:
