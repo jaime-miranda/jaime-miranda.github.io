@@ -1,7 +1,8 @@
 # About me :technologist:
 With a robust academic background and over a decade of experience working for top-tier companies, I bring a wealth of knowledge and expertise to my role as an **SAP consultant**. My focus lies in **Salesforce Sales Cloud**, **SAP SD**, and Contract Accounting (**FI-CA**), where I excel in delivering tailored solutions to streamline sales processes, enhance efficiency, and drive profitability. I am dedicated to remaining abreast of industry trends, ensuring that my clients receive cutting-edge solutions to meet their evolving needs.
+
 &nbsp;
-Just **contact me**
+Just **contact me**:
   - Email: consulting@miranda.one
   - LinkedIn: [jmirandaz](https://www.linkedin.com/in/jmirandaz)
     
